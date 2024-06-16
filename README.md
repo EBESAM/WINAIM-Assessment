@@ -1,5 +1,5 @@
 Task 1 SQL folder consists of SQL assessment's MySQL queries for an Employee Management System with the Creation, Insertion, Testing and Result folders. Each folder's link is attached below,
-CREATION - 
+CREATION - https://github.com/EBESAM/WINAIM-Assessment/blob/main/Task%201%20-%20SQL/Creation.sql
 INSERTION - 
 TESTING - 
 RESULTS - 
